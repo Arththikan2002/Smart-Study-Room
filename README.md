@@ -1,68 +1,83 @@
-# 🌿 Smart Study Room – Personalized Comfort System 📚💡  
+# 🌿 Smart Study Room  
+Personalized Comfort & Focus System for Smarter Learning 📚✨  
 
-Proud to share our **Semester 4 project** — a **cost-effective smart system** designed to enhance focus and comfort in personal workspaces. By automatically adjusting lighting and temperature, the system creates an ideal environment for studying or working without distractions.  
+## 📖 Introduction  
+The **Smart Study Room** is our Semester 4 group project, designed to transform ordinary study environments into **intelligent, adaptive spaces**.  
 
----
-
-## ✨ Main Features  
-- 🌞 **Dynamic Lighting Adjustment**  
-  Ambient light sensor detects brightness and modulates LED lights automatically for optimal eye comfort.  
-
-- 🌡️ **Intelligent Temperature Monitoring via Resistor & Op-Amp Circuit**  
-  Workspace conditions are tracked using a resistor-based sensing circuit.  
-  The op-amp amplifier translates resistance changes into a measurable voltage:  
-
-  \[
-  V_{out} = V_{in} \times \left(1 + \frac{R1}{R2}\right)
-  \]  
-
-  This enables real-time detection and control of fan operation.  
-
-- 🖥️ **Real-Time Automation with NI DAQ & LabVIEW**  
-  Analog signals are processed and actuators controlled seamlessly, providing instant feedback and environment adaptation.  
+Using **sensors, analog circuits, and NI DAQ with LabVIEW**, the system automatically adjusts lighting and fan operation to improve comfort, reduce distractions, and support long study sessions efficiently.  
 
 ---
 
-## 🛠️ Tech Stack  
-- **Hardware**: Resistor sensing circuit, Op-Amp amplifier, NI DAQ, LED lighting, Fan  
-- **Software**: LabVIEW  
+## 🔧 Core Features  
+
+💡 **Adaptive Lighting**  
+- Detects ambient brightness using a light sensor.  
+- Adjusts LED intensity automatically for better eye comfort.  
+
+🌡️ **Temperature-Aware Control**  
+- Resistor-based sensing circuit monitors heat levels.  
+- Op-amp amplifier translates resistance changes into measurable signals.  
+- Fan activates automatically when needed for cooling.  
+
+🖥️ **LabVIEW Automation**  
+- NI DAQ hardware acquires sensor data in real time.  
+- LabVIEW GUI displays system status and allows manual override.  
 
 ---
 
-## 📐 System Diagram  
-(Add your **block diagram / circuit diagram image** in `/images` folder)  
+## 🛠️ Tools & Components  
 
-![System Diagram](images/system-diagram.png)  
-
----
-
-## 📷 Prototype  
-(Add actual prototype photos in `/images` folder)  
-
-![Prototype 1](images/prototype1.jpg)  
-![Prototype 2](images/prototype2.jpg)  
+- **Hardware:** Resistors, Op-Amp, NI DAQ, LED lights, Fan  
+- **Software:** LabVIEW  
+- **Concepts Applied:** Sensor integration, signal conditioning, feedback control  
 
 ---
 
-## 🎓 Skills & Learning  
-- Real-Time Data Acquisition & Processing  
-- Sensor & Actuator Integration  
-- Analog Signal Conditioning (Op-Amp Circuits)  
-- Automated Control Systems  
-- Energy-Efficient Workspace Design  
+## 📊 System Overview  
+
+- **Input:** Ambient light sensor + Resistor/Op-Amp circuit  
+- **Processing:** NI DAQ & LabVIEW  
+- **Output:** Automatic control of LED and Fan  
 
 ---
 
-## 🏁 Impact  
-This project demonstrates how **affordable smart systems** can transform ordinary study/workspaces into personalized, productive environments — reducing eye strain and improving overall comfort.  
+## 🌱 What We Learned  
+
+This project gave us hands-on exposure to:  
+- Real-time data acquisition & processing  
+- Analog signal conditioning with Op-Amps  
+- Sensor-actuator interfacing  
+- Designing energy-efficient automation systems  
 
 ---
 
-## 👩‍🔬 Team Members  
+## 🎯 Project Impact  
+
+By creating a **cost-effective smart workspace**, we show how simple automation can:  
+- Improve focus and productivity  
+- Reduce eye strain with better lighting  
+- Maintain comfort with automated cooling  
+- Demonstrate practical applications of analog + digital systems  
+
+---
+
+## 👩‍💻 Team Behind the Project  
+
 - Anjana G.H.C.  
 - Arththikan S.  
 - Athukorala H.N.  
 
 ---
 
-## 📂 Repository Structure  
+## 📷 Visual Highlights  
+
+### Final Prototype  
+![Smart Study Room](F:\CV\SSR\project)  
+
+### Team Photo  
+![Team Members](F:\CV\SSR\team)  
+
+---
+
+## 🔖 Keywords  
+#SmartWorkspace #Automation #LabVIEW #DAQ #AnalogCircuits #EnergyEfficiency #StudentProject  
