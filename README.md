@@ -72,10 +72,10 @@ By creating a **cost-effective smart workspace**, we show how simple automation 
 ## 📷 Visual Highlights  
 
 ### Final Prototype  
-![Smart Study Room](F:\CV\SSR\project)  
+![Smart Study Room](F:\CV\SSR\project\WhatsApp Image 2025-08-29 at 22.39.46_92ceee26.jpg)  
 
 ### Team Photo  
-![Team Members](F:\CV\SSR\team)  
+![Team Members](F:\CV\SSR\team\WhatsApp Image 2025-08-29 at 22.39.46_92ceee26.jpg)  
 
 ---
 
