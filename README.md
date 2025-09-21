@@ -1,82 +1,86 @@
-# 🌿 Smart Study Room  
-Personalized Comfort & Focus System for Smarter Learning 📚✨  
+# 🌿 Smart Study Room
+**Smart Comfort System – Personalized Study & Workspaces** 📚💡  
+*Apr 2025 – Jul 2025 | University of Moratuwa*
 
-## 📖 Introduction  
-The **Smart Study Room** is our Semester 4 group project, designed to transform ordinary study environments into **intelligent, adaptive spaces**.  
-
-Using **sensors, analog circuits, and NI DAQ with LabVIEW**, the system automatically adjusts lighting and fan operation to improve comfort, reduce distractions, and support long study sessions efficiently.  
+A **cost-effective smart system** designed to enhance focus and comfort in personal workspaces. By automatically adjusting **lighting, temperature, and incorporating Active Noise Cancellation (ANC)**, the system creates an ideal environment for studying or working without distractions.
 
 ---
 
-## 🔧 Core Features  
+## ✨ Main Features
 
-💡 **Adaptive Lighting**  
-- Detects ambient brightness using a light sensor.  
-- Adjusts LED intensity automatically for better eye comfort.  
+### 🌞 Dynamic Lighting Adjustment
+- Ambient light sensor detects brightness and automatically modulates LED lighting.
+- Ensures **optimal eye comfort** while saving energy.
+- Real-time signal processing with **NI DAQ & LabVIEW**.
 
-🌡️ **Temperature-Aware Control**  
-- Resistor-based sensing circuit monitors heat levels.  
-- Op-amp amplifier translates resistance changes into measurable signals.  
-- Fan activates automatically when needed for cooling.  
+### 🌡️ Intelligent Temperature Monitoring
+- Workspace conditions tracked using a **resistor-based sensing circuit**.
+- **Op-Amp amplifier** converts resistance changes into measurable voltage:  
+  `Vout = Vin × (1 + R1/R2)`
+- Automates fan operation for a **comfortable environment**.
 
-🖥️ **LabVIEW Automation**  
-- NI DAQ hardware acquires sensor data in real time.  
-- LabVIEW GUI displays system status and allows manual override.  
+### 🔊 Active Noise Cancellation (ANC)
+- Basic ANC system implemented in **LabVIEW using NI DAQ**.
+- **Key Functions:**
+  - **Preamplification:** Strengthens audio signal captured by microphone.
+  - **Signal Delay:** Aligns electrical signal with incoming noise wave.
+  - **Signal Inversion:** Generates an inverted noise signal to cancel unwanted sound.
+  - **Filtering:** Isolates noise for more accurate cancellation.
+- Reduces ambient noise, creating a **focused study/work environment**.
 
----
-
-## 🛠️ Tools & Components  
-
-- **Hardware:** Resistors, Op-Amp, NI DAQ, LED lights, Fan  
-- **Software:** LabVIEW  
-- **Concepts Applied:** Sensor integration, signal conditioning, feedback control  
-
----
-
-## 📊 System Overview  
-
-- **Input:** Ambient light sensor + Resistor/Op-Amp circuit  
-- **Processing:** NI DAQ & LabVIEW  
-- **Output:** Automatic control of LED and Fan  
+### 🖥️ Real-Time Automation
+- NI DAQ and LabVIEW acquire and process sensor and audio signals.
+- Actuators (LEDs, Fan, ANC output) respond instantly to environmental changes.
+- Fully **adaptive and user-friendly workspace**.
 
 ---
 
-## 🌱 What We Learned  
+## 🛠️ Tech Stack
 
-This project gave us hands-on exposure to:  
-- Real-time data acquisition & processing  
-- Analog signal conditioning with Op-Amps  
-- Sensor-actuator interfacing  
-- Designing energy-efficient automation systems  
+- **Hardware:** NI DAQ, Op-Amps, Resistors, LED Lighting, Fan, Microphone & Speaker
+- **Software:** LabVIEW
+- **Core Skills:** LabVIEW Programming, Control Systems, Real-Time Data Acquisition, Sensor–Actuator Integration, Analog Signal Conditioning, Digital Signal Processing
 
 ---
 
-## 🎯 Project Impact  
+## 🎓 Skills & Learning
 
-By creating a **cost-effective smart workspace**, we show how simple automation can:  
-- Improve focus and productivity  
-- Reduce eye strain with better lighting  
-- Maintain comfort with automated cooling  
-- Demonstrate practical applications of analog + digital systems  
-
----
-
-## 👩‍💻 Team Behind the Project  
-
-- Anjana G.H.C.  
-- Arththikan S.  
-- Athukorala H.N.  
+- Real-Time Data Acquisition & Processing
+- Sensor & Actuator Integration
+- Analog Signal Conditioning with Op-Amps
+- Active Noise Cancellation & DSP
+- Automated Control System Design
+- Energy-Efficient Workspace Implementation
 
 ---
 
-## 📷 Visual Highlights  
+## 🏁 Impact
 
-### Final Prototype  
-![SSR 1](images/SSR1.jpg)  ![SSR 2](images/SSR2.jpg)
- 
-### Team Photo  
-![Team 1](images/team01.jpg)  ![Team 2](images/team02.jpg)
+- Transforms ordinary study/workspaces into **personalized, productive environments**.
+- Reduces eye strain with adaptive lighting.
+- Maintains comfort with automated temperature control.
+- Minimizes noise distractions with ANC for **better focus and concentration**.
+- Demonstrates integration of **analog circuits, digital control, and DSP techniques** in a practical project.
+
 ---
 
-## 🔖 Keywords  
-#SmartWorkspace #Automation #LabVIEW #DAQ #AnalogCircuits #EnergyEfficiency #StudentProject  
+## 📷 Visual Highlights
+
+### Prototype
+<img src="images/SSR1.jpg" alt="Prototype 1" width="30%" /> 
+<img src="images/SSR2.jpg" alt="Prototype 2" width="30%" />
+
+### Team Photos
+<img src="images/team01.jpg" alt="Team 1" width="30%" /> 
+<img src="images/team02.jpg" alt="Team 2" width="30%" />
+## 👩‍🔬 Team Members
+
+- Anjana G.H.C.
+- Arththikan S.
+- Athukorala H.N.
+
+---
+
+## 🔖 Keywords
+
+#SmartWorkspace #Automation #LabVIEW #DAQ #AnalogCircuits #ControlSystems #ActiveNoiseCancellation #DSP #EnergyEfficiency #StudentProject
