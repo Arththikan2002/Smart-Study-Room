@@ -26,11 +26,9 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 
 ### 🌡️ Intelligent Temperature Monitoring
 - Workspace conditions tracked using a **resistor-based sensing circuit**.
-- **Op-Amp amplifier** converts resistance changes into measurable voltage:  
-  `Vout = Vin × (1 + R1/R2)`
+- An **Op-Amp amplifier** boosts the small voltage changes from the sensor, making them easier to measure and process.
 - Automates fan operation for a **comfortable environment**.
 
-#### Visuals
 #### Visuals
 <img src="Features/Temperature/temp.jpg" alt="Temperature Sensor Circuit" width="40%" /> 
 
