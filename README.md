@@ -70,6 +70,10 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 <img src="images/SSR1.jpg" alt="Prototype 1" width="30%" /> 
 <img src="images/SSR2.jpg" alt="Prototype 2" width="30%" />
 
+### Software & Simulation Highlights
+<img src="images/SSR1.jpg" alt="Prototype 1" width="30%" /> 
+<img src="images/SSR2.jpg" alt="Prototype 2" width="30%" />
+
 ### Team Photos
 <img src="images/team01.jpg" alt="Team 1" width="30%" /> 
 <img src="images/team02.jpg" alt="Team 2" width="30%" />
