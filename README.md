@@ -95,7 +95,7 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 - Athukorala H.N.
 
 ## 📷 Team Photos
-<img src="images/team.jpg" width="50%" /> 
+<img src="images/team.jpg" width="40%" /> 
 
 ---
 
