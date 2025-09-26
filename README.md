@@ -46,8 +46,8 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 #### Visuals
 <table>
 <tr>
-<td><img src="images/anc1.jpg" alt="ANC Setup" width="300"></td>
-<td><img src="images/anc2.jpg" alt="LabVIEW ANC Interface" width="300"></td>
+<td><img src="Features/NoiseCancellation/labview.png" alt="ANC Setup" width="300"></td>
+<td><img src="Features/NoiseCancellation/ltspice.png" width="300"></td>
 </tr>
 </table>
 
@@ -59,12 +59,7 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 - Fully **adaptive and user-friendly workspace**.
 
 #### Visuals
-<table>
-<tr>
-<td><img src="images/automation1.jpg" alt="Automation Dashboard" width="300"></td>
-<td><img src="images/automation2.jpg" alt="Real-Time Control" width="300"></td>
-</tr>
-</table>
+<img src="images/Prototype.jpg" width="40%" /> 
 
 ---
 
@@ -99,7 +94,11 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 - Arththikan S.
 - Athukorala H.N.
 
+## 📷 Team Photos
+<img src="images/team.jpg" width="50%" /> 
+
 ---
+
 
 ## 🔖 Keywords
 #SmartWorkspace #Automation #LabVIEW #DAQ #AnalogCircuits #ControlSystems #ActiveNoiseCancellation #DSP #EnergyEfficiency #StudentProject
