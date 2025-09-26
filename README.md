@@ -13,11 +13,32 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 - Ensures **optimal eye comfort** while saving energy.
 - Real-time signal processing with **NI DAQ & LabVIEW**.
 
+#### Visuals
+<table>
+<tr>
+<td><img src="Features/lighting/1.png" alt="Lighting Sensor" width="300"></td>
+<td><img src="Features/lighting/4.png" alt="Lighting Sensor" width="300"></td>
+<td><img src="Features/lighting/7.png" alt="Lighting Sensor" width="300"></td>
+</tr>
+</table>
+
+---
+
 ### 🌡️ Intelligent Temperature Monitoring
 - Workspace conditions tracked using a **resistor-based sensing circuit**.
 - **Op-Amp amplifier** converts resistance changes into measurable voltage:  
   `Vout = Vin × (1 + R1/R2)`
 - Automates fan operation for a **comfortable environment**.
+
+#### Visuals
+<table>
+<tr>
+<td><img src="images/temperature1.jpg" alt="Temperature Sensor Circuit" width="300"></td>
+<td><img src="images/temperature2.jpg" alt="Fan Control" width="300"></td>
+</tr>
+</table>
+
+---
 
 ### 🔊 Active Noise Cancellation (ANC)
 - Basic ANC system implemented in **LabVIEW using NI DAQ**.
@@ -28,15 +49,32 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
   - **Filtering:** Isolates noise for more accurate cancellation.
 - Reduces ambient noise, creating a **focused study/work environment**.
 
+#### Visuals
+<table>
+<tr>
+<td><img src="images/anc1.jpg" alt="ANC Setup" width="300"></td>
+<td><img src="images/anc2.jpg" alt="LabVIEW ANC Interface" width="300"></td>
+</tr>
+</table>
+
+---
+
 ### 🖥️ Real-Time Automation
 - NI DAQ and LabVIEW acquire and process sensor and audio signals.
 - Actuators (LEDs, Fan, ANC output) respond instantly to environmental changes.
 - Fully **adaptive and user-friendly workspace**.
 
+#### Visuals
+<table>
+<tr>
+<td><img src="images/automation1.jpg" alt="Automation Dashboard" width="300"></td>
+<td><img src="images/automation2.jpg" alt="Real-Time Control" width="300"></td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
-
 - **Hardware:** NI DAQ, Op-Amps, Resistors, LED Lighting, Fan, Microphone & Speaker
 - **Software:** LabVIEW
 - **Core Skills:** LabVIEW Programming, Control Systems, Real-Time Data Acquisition, Sensor–Actuator Integration, Analog Signal Conditioning, Digital Signal Processing
@@ -44,7 +82,6 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 ---
 
 ## 🎓 Skills & Learning
-
 - Real-Time Data Acquisition & Processing
 - Sensor & Actuator Integration
 - Analog Signal Conditioning with Op-Amps
@@ -55,7 +92,6 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 ---
 
 ## 🏁 Impact
-
 - Transforms ordinary study/workspaces into **personalized, productive environments**.
 - Reduces eye strain with adaptive lighting.
 - Maintains comfort with automated temperature control.
@@ -64,21 +100,7 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 
 ---
 
-## 📷 Visual Highlights
-
-### Prototype
-<img src="images/SSR1.jpg" alt="Prototype 1" width="30%" /> 
-<img src="images/SSR2.jpg" alt="Prototype 2" width="30%" />
-
-### Software & Simulation Highlights
-<img src="images/SSR1.jpg" alt="Prototype 1" width="30%" /> 
-<img src="images/SSR2.jpg" alt="Prototype 2" width="30%" />
-
-### Team Photos
-<img src="images/team01.jpg" alt="Team 1" width="30%" /> 
-<img src="images/team02.jpg" alt="Team 2" width="30%" />
 ## 👩‍🔬 Team Members
-
 - Anjana G.H.C.
 - Arththikan S.
 - Athukorala H.N.
@@ -86,5 +108,4 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 ---
 
 ## 🔖 Keywords
-
 #SmartWorkspace #Automation #LabVIEW #DAQ #AnalogCircuits #ControlSystems #ActiveNoiseCancellation #DSP #EnergyEfficiency #StudentProject
