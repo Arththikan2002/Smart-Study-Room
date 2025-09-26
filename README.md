@@ -31,12 +31,8 @@ A **cost-effective smart system** designed to enhance focus and comfort in perso
 - Automates fan operation for a **comfortable environment**.
 
 #### Visuals
-<table>
-<tr>
-<td><img src="images/temperature1.jpg" alt="Temperature Sensor Circuit" width="300"></td>
-<td><img src="images/temperature2.jpg" alt="Fan Control" width="300"></td>
-</tr>
-</table>
+#### Visuals
+<img src="Features/Temperature/temp.jpg" alt="Temperature Sensor Circuit" width="40%" /> 
 
 ---
 
